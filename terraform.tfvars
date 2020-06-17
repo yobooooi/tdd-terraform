@@ -1,0 +1,5 @@
+prefix    = "tdd-infra"
+owner     = "adan"
+region    = "eu-west-1"
+subnet_id = "subnet-00ac2a48e86752057"
+vpc_id    = "vpc-0b0a084301160c3ce"

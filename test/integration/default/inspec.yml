@@ -1,0 +1,9 @@
+name: default
+title: Integration Tests for Application
+maintainer: Adan Patience
+copyright: Adan Patience
+version: 1.0.0
+attributes:
+- name: instance_id
+  description: Instance ID of provisioned host
+  type: string
